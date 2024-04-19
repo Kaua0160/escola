@@ -10,8 +10,8 @@
     <header class="cabecalho">
         <img class= "cabecalho-imagem"src="alurastart logo.png" alt="logo da alurastart">
         <ul class="cabecalho-lista">
-            <li class="cabecalho-lista-item">Escola</li>
-            <li class="cabecalho-lista-item">Estudante</li>
+            <li class="cabecalho-lista-item">colégio estadual jardim universitario</li>
+            <li class="cabecalho-lista-item">Kaua henrique de almeida lima</li>
         </ul>
     </header>
 
